@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "139034097639",
+    "firebase_url": "https://authlogin-eca11.firebaseio.com",
+    "project_id": "authlogin-eca11",
+    "storage_bucket": "authlogin-eca11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139034097639:android:047a8d1ba581300a",
+        "android_client_info": {
+          "package_name": "tibet.paljor.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139034097639-orcqb3hrccrceua8p6pj6spc2gcprcuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLdQ3Vx1dztEIAnuTPZukAbH67lMBnK4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
